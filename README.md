@@ -6,5 +6,10 @@
 
 ### Purpose of the project is to get me hired based on skillset.
 
+## How to contribute to the project 
+1. Make a pull request
+2. Create a merge request
+3. Write a feedback
+4. Done !
 
 
