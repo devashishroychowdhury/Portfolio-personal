@@ -6,6 +6,7 @@
 
 ### Purpose of the project is to get me hired based on skillset.
 To download the project select the 'Working-Form' branch in behalf of 'main' branch.
-If this project requires any fix and updation you can contact me in Linkedin platform or simply hit an Email.
+If this project requires any fix and updation you can contact me in Linkedin platform or simply hit an Email. <br>
+Visit this link to get connected -> http://www.linkedin.com/in/devashish-roy-chowdhury
 
 
